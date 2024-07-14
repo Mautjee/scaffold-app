@@ -12,7 +12,7 @@ These are all the technologies used in this project
 
 ### Frontend
 
-programming language is _Typescript_
+- Typescript
 
 - React.js
 - Zustand
